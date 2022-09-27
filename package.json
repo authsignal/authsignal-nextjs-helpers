@@ -2,6 +2,7 @@
   "name": "@authsignal/nextjs-helpers",
   "version": "0.0.1",
   "types": "dist/index.d.ts",
+  "type": "module",
   "keywords": [
     "authsignal",
     "mfa",
