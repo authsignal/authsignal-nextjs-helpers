@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@authsignal/browser@^0.0.14":
-  version "0.0.14"
-  resolved "https://registry.npmjs.org/@authsignal/browser/-/browser-0.0.14.tgz#c8045d83edcd49696a7e9b3ef6b70b181eae37c2"
-  integrity sha512-ZVm30Ub/LTU9reSELN9QNZcLoD7v1Bnc5CKaBhpezJVaYmgKFqrseYLV5ckpHz86tifH4sLGwkTwGDBGrL39UA==
+"@authsignal/browser@^0.0.16":
+  version "0.0.16"
+  resolved "https://registry.npmjs.org/@authsignal/browser/-/browser-0.0.16.tgz#1b94f37c3bbf710f9980cacccb2866e77156e7e3"
+  integrity sha512-bCczdtrQUFV3KYZrAAHg9xxhBcmKGgaXVFx9YWEbFyo0Hg3jGA8yeFazyLQubp4+MuxLBrOPMCSmnpYkB2U+4A==
   dependencies:
     "@fingerprintjs/fingerprintjs" "^3.3.3"
     a11y-dialog "^7.4.0"
