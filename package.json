@@ -1,6 +1,6 @@
 {
   "name": "@authsignal/nextjs-helpers",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "types": "dist/index.d.ts",
   "type": "module",
   "keywords": [
@@ -18,7 +18,7 @@
     "build": "rollup -c rollup.config.js"
   },
   "dependencies": {
-    "@authsignal/browser": "^0.0.16",
+    "@authsignal/browser": "^0.0.18",
     "next": "^12.2.5",
     "react": "^18.2.0"
   },
